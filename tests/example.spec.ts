@@ -1,5 +1,6 @@
 import { test, expect } from '@playwright/test';
 
+///CLASE 2
 test.describe('GX-123: practica de localizadores', ()=>{
 
   test.beforeEach(async ({ page })=>{
@@ -56,3 +57,7 @@ test.describe('GX-123: practica de localizadores', ()=>{
   })
 
 })
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
