@@ -1,0 +1,37 @@
+[
+    {
+        "fullName": "Mateo Biglia",
+        "email": "mateo_biglia@gmail.com",
+        "adress": "colon 2000",
+        "permanentAddress": "colon 3000"
+    },
+
+    {
+        "fullName": "Mateo",
+        "email": "mateo_biglia@gmail.com",
+        "adress": "colon 2000",
+        "permanentAddress": "colon 3000"
+    },
+
+    {
+        "fullName": "Mateo Biglia",
+        "email": "m@gmail.com",
+        "adress": "colon 2000",
+        "permanentAddress": "colon 3000"
+    },
+
+    {
+        "fullName": "Mateo Biglia",
+        "email": "mateo_biglia@gmail.com",
+        "adress": "colon",
+        "permanentAddress": "colon 3000"
+    },
+
+    {
+        "fullName": "Mateo Biglia",
+        "email": "mateo_biglia@gmail.com",
+        "adress": "colon 2000",
+        "permanentAddress": " 3000"
+    }
+
+]
