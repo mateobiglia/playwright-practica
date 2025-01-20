@@ -44,7 +44,6 @@ import { obtenerResultadoFormulario } from '@helper/testUtiles';
                 const resultadoValoresFormulario = await obtenerResultadoFormulario(page.locator('#output p'))
                 expect(resultadoValoresFormulario).toEqual([ingresoDatosFormulario.fullName, ingresoDatosFormulario.email, ingresoDatosFormulario.adress, ingresoDatosFormulario.permanentAddress])
 
-
             }     
             
         })
