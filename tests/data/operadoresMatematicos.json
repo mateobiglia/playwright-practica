@@ -1,0 +1,19 @@
+[
+    {
+        "calculo": "plus"
+    },
+
+    {
+        "calculo": "times"
+    },
+
+    {
+        "calculo": "minus"
+    },
+
+    {
+        "calculo": "divide"
+    }
+
+
+]
